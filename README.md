@@ -187,3 +187,6 @@ And also the Vue.js community for the CLI we used to generate our templates:
 ## License
 
 Create Eth App is open source software [licensed as MIT](https://github.com/paulrberg/create-eth-app/blob/develop/LICENSE).
+
+
+## gogogo
